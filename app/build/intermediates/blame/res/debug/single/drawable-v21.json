@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Service\\.android\\build-cache\\e501577d0d5baf8a1fe6b05fdf218b620198d85d\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Service\\.android\\build-cache\\e501577d0d5baf8a1fe6b05fdf218b620198d85d\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Service\\.android\\build-cache\\e501577d0d5baf8a1fe6b05fdf218b620198d85d\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    }
+]

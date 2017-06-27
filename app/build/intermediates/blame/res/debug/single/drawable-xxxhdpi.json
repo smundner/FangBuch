@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_a_photo_black_24dp.png",
+        "source": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_a_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_white_24dp.png",
+        "source": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png",
+        "source": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_close_black_24dp.png",
+        "source": "C:\\Users\\Service\\Documents\\Android Projekte\\FangBuch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close_black_24dp.png"
+    }
+]

@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:6:5-7:34
+	android:required
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:8:5-9:37
+	android:maxSdkVersion
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:10:5-35:19
+MERGED from [FangBuch:volley-debug:unspecified] C:\Users\Service\.android\build-cache\7dac796e31abe67571de5646258a8aecd5abd5a1\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Service\.android\build-cache\d5cb638ec24a991a84e8f1a35a2b75dfff8ac32c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Service\.android\build-cache\e501577d0d5baf8a1fe6b05fdf218b620198d85d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Service\.android\build-cache\87527ea9837795f2cd9297562afb2e51c62d52d8\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Service\.android\build-cache\f5c40e9188f60e039f748edc826c44ee1517eb84\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Service\.android\build-cache\8ec11fc3751b75cade5736ea57a3193c4b6c5346\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Service\.android\build-cache\a9a416f063708e73766057455cc4cc49e24801ed\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:15:9-40
+activity#de.shm.fangbuch.MainActivity
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:23:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:authorities
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:27:13-50
+	android:grantUriPermissions
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:30:13-47
+	android:exported
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:28:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:31:13-33:64
+	android:resource
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:33:17-51
+	android:name
+		ADDED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml:32:17-67
+uses-sdk
+INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [FangBuch:volley-debug:unspecified] C:\Users\Service\.android\build-cache\7dac796e31abe67571de5646258a8aecd5abd5a1\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Service\.android\build-cache\d5cb638ec24a991a84e8f1a35a2b75dfff8ac32c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Service\.android\build-cache\e501577d0d5baf8a1fe6b05fdf218b620198d85d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Service\.android\build-cache\87527ea9837795f2cd9297562afb2e51c62d52d8\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Service\.android\build-cache\f5c40e9188f60e039f748edc826c44ee1517eb84\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Service\.android\build-cache\8ec11fc3751b75cade5736ea57a3193c4b6c5346\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Service\.android\build-cache\a97e0c1b9787e237df3414042b9af710826f02b5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Service\.android\build-cache\a9a416f063708e73766057455cc4cc49e24801ed\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Service\.android\build-cache\e501577d0d5baf8a1fe6b05fdf218b620198d85d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Service\Documents\Android Projekte\FangBuch\app\src\main\AndroidManifest.xml
